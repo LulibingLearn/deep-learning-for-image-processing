@@ -1,7 +1,5 @@
 # 文献链接
 
------
-
 ## 图像分类(Classification)
 - LeNet [http://yann.lecun.com/exdb/lenet/index.html](http://yann.lecun.com/exdb/lenet/index.html)
 - AlexNet [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -34,8 +32,8 @@
 - Swin Transformer V2: Scaling Up Capacity and Resolution [https://arxiv.org/abs/2111.09883](https://arxiv.org/abs/2111.09883)
 - BEiT: BERT Pre-Training of Image Transformers [https://arxiv.org/abs/2106.08254](https://arxiv.org/abs/2106.08254)
 - MAE(Masked Autoencoders Are Scalable Vision Learners) [https://arxiv.org/abs/2111.06377](https://arxiv.org/abs/2111.06377)
-- ConvNeXt(A ConvNet for the 2020s) [https://github.com/facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
-------
+- ConvNeXt(A ConvNet for the 2020s) [https://arxiv.org/abs/2201.03545](https://arxiv.org/abs/2201.03545)
+
 
 ## 目标检测(Object Detection)
 - R-CNN [https://arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)
@@ -59,14 +57,21 @@
 - CenterNet [https://arxiv.org/abs/1904.07850](https://arxiv.org/abs/1904.07850)
 
 
-## 图像分割(Segmentation)
+## 语义分割(Semantic Segmentation)
 - FCN(Fully Convolutional Networks for Semantic Segmentation) [https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
 - UNet(U-Net: Convolutional Networks for Biomedical Image Segmentation) [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 - DeepLabv1(Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs) [https://arxiv.org/abs/1412.7062](https://arxiv.org/abs/1412.7062)
 - DeepLabv2(Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs) [https://arxiv.org/abs/1606.00915](https://arxiv.org/abs/1606.00915)
 - DeepLabv3(Rethinking Atrous Convolution for Semantic Image Segmentation) [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
 - DeepLabv3+(Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation) [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
+
+
+## 实例分割(Instance Segmentation)
 - Mask R-CNN [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
+
+
+## 关键点检测(Keypoint Detection)
+- HRNet(Deep High-Resolution Representation Learning for Human Pose Estimation) [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212)
 
 
 ## 自然语言处理
@@ -75,3 +80,4 @@
 ## Others
 - Microsoft COCO: Common Objects in Context [https://arxiv.org/abs/1405.0312](https://arxiv.org/abs/1405.0312)
 - The PASCALVisual Object Classes Challenge: A Retrospective [http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham15.pdf](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham15.pdf)
+- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
